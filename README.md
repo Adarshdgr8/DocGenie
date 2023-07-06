@@ -1,3 +1,3 @@
-# DocHelp
+# DocGenie: Converse with Documentations
 
 
