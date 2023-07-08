@@ -4,6 +4,7 @@ Welcome to the DocGenie GitHub repository! DocGenie is a powerful documentation 
 <div>
   <img style="align:center;" src="https://github.com/Adarshdgr8/DocGenie/assets/89144373/92adf8ee-e002-44c4-9cbb-d70fd132e14c" alt="DocGenie Logo" width="160">
 </div>
+
 ## Project Overview
 The goal of this project is to build an end-to-end solution for interacting with documentation. This involves running a chain that processes the documentation and provides relevant information, as well as developing a user-friendly front end and user interface for seamless interaction. We will cover various topics such as vector databases, retrieval similarity, search memory inside a chat, and Streamlit, a package that simplifies front-end development. Additionally, we will explore the Lang chain source code to understand the underlying mechanisms.
 
