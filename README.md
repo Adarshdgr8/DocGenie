@@ -1,3 +1,0 @@
-# DocGenie: Converse with Documentations
-
-
