@@ -26,11 +26,11 @@ The final phase focuses on integrating memory into the chat functionality. This 
 ## Team Members
 The DocGenie project is developed by a dedicated team of individuals with a passion for technology and a drive for excellence. Meet our team members:
 
-#### [Adarsh Singh](https://www.linkedin.com/in/adarsh-singh-b17640202/)
-#### [Vishal Singh](https://www.linkedin.com/in/vishal-singh-vsks/)
-#### [Nidhi Rajani](https://www.linkedin.com/in/nidhi-rajani-b13005217/)
-#### [Muskan Bansal](https://www.linkedin.com/in/muskan-bansal-102101232/)
-#### [Arpit Awasthi](https://www.linkedin.com/in/arpit-awasthi-275890203/)
+* #### [Adarsh Singh](https://www.linkedin.com/in/adarsh-singh-b17640202/)
+* #### [Vishal Singh](https://www.linkedin.com/in/vishal-singh-vsks/)
+* #### [Nidhi Rajani](https://www.linkedin.com/in/nidhi-rajani-b13005217/)
+* #### [Muskan Bansal](https://www.linkedin.com/in/muskan-bansal-102101232/)
+* #### [Arpit Awasthi](https://www.linkedin.com/in/arpit-awasthi-275890203/)
 
 
 We are students from MANIT Bhopal, Batch of 24, and we are excited to collaborate on this innovative project.
